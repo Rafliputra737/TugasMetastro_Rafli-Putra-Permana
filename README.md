@@ -2,7 +2,7 @@
 # [Rafli Putra Permana]
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](https://github.com/Rafliputra737/TugasMetastro_Rafli-Putra-Permana/blob/main/Screenshot%20(29).png)
+![Screenshot Akun GitHub](https://github.com/Rafliputra737/TugasMetastro_Rafli-Putra-Permana/blob/main/Screenshot%20(32).png)
 
 ## Project Terbaru: RTDS-Robotics-Module1
 
